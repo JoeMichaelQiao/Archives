@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "stone_knife",
+    "customModelName": "Normal",
+    "name": "Stone Knife",
+    "creativeTab": {
+      "value": "CUSTOM:StandardBLTTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 3.2,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 128,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ]
+  }
+}

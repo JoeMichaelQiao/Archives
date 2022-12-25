@@ -1,0 +1,10 @@
+############
+StandardBLT
+############
+
+# Items
+item.bltitem.name=Standard BLT Item
+# Blocks
+tile.bltblock.name=Standard BLT ItemBlock
+# Creative Tab(s)
+itemGroup.StandardBLT_Tab=StandardBLT

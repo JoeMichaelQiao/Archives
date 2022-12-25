@@ -1,0 +1,15 @@
+############
+# StandardBLT
+############
+
+# Items
+item.BLTItem.name=Standard BLT Item
+## Food
+item.BLTFood.name=Standard BLT Food
+item.BLTEffectFood.name=Standard BLT Effect Food(Posion)
+
+# Blocks
+tile.BLTBlock.name=Standard BLT ItemBlock
+
+# Creative Tab(s)
+itemGroup.StandardBLT_Tab=StandardBLT

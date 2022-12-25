@@ -1,0 +1,28 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Woodenknife"
+      },
+      {
+        "value": "CUSTOM:StoneKnife"
+      },
+      {
+        "value": "CUSTOM:IronKnife"
+      },
+      {
+        "value": "CUSTOM:GoldenKnife"
+      },
+      {
+        "value": "CUSTOM:DiamondKnife"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "knife",
+    "namespace": "forge"
+  }
+}

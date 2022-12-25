@@ -1,0 +1,31 @@
+{
+  "_fv": 6,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "StandardBLT",
+    "achievementDescription": "The heart and story of the mod.",
+    "achievementIcon": {
+      "value": "CUSTOM:Woodenknife"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "R_Wooden_Knife",
+      "R_Stone_Knife",
+      "R_Iron_Knife",
+      "R_Golden_Knife",
+      "R_Diamond_Knife"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 66,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"block_placed\" x=\"53\" y=\"81\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.CRAFTING_TABLE</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

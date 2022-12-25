@@ -1,0 +1,38 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "blt:woodenknife"
+    },
+    "title": {
+      "translate": "advancements.blt.title"
+    },
+    "description": {
+      "translate": "advancements.blt.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "blt": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:crafting_table"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 66,
+    "recipes": [
+      "blt:r_wooden_knife",
+      "blt:r_stone_knife",
+      "blt:r_golden_knife",
+      "blt:r_golden_knife",
+      "blt:r_diamond_knife"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+############
+# StandardBLT
+############
+
+# Items
+item.BLTItem.name=标准的BLT物品
+## Food
+item.BLTFood.name=标准的BLT食物
+item.BLTEffectFood.name=标准的BLT效果食物（药水）
+
+# Blocks
+tile.BLTBlock.name=标准的BLT方块
+
+# Creative Tab(s)
+itemGroup.StandardBLT_Tab=标准的BLT

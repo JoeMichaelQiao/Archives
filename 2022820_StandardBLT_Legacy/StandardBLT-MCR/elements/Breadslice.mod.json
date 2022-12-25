@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "bread_slice",
+    "customModelName": "Normal",
+    "name": "Bread slice",
+    "creativeTab": {
+      "value": "CUSTOM:StandardBLTFoods"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 1.0,
+    "eatingSpeed": 16,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

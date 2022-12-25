@@ -1,0 +1,331 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Woodenknife",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StoneKnife",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronKnife",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldenKnife",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondKnife",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Lettuce",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LettuceSlice",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TomatoSlice",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Chilli",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Chilliseed",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rawbacon",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cookedbacon",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RawChickenSlice",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CookedChickenSlice",
+      "type": "food",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Breadslice",
+      "type": "food",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StandardBLT",
+      "type": "food",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "standardblt_food"
+    },
+    {
+      "name": "StandardBLTTools",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Knife",
+      "type": "tag",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StandardBLTFoods",
+      "type": "tab",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "R_Wooden_Knife",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "R_Stone_Knife",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "R_Iron_Knife",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "R_Golden_Knife",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "R_Diamond_Knife",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BLT",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FuelLettuceSlice",
+      "type": "fuel",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FuleLettuce",
+      "type": "fuel",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "R_Lettuce_Slice",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_gb": {
+      "item.lettuceslice.name": "Lettuce Slice",
+      "advancements.blt.title": "StandardBLT",
+      "item.tomato.name": "Tomato",
+      "item.diamondknife.name": "Diamond Knife",
+      "itemGroup.tabstandardbltfoods": "Standard BLT-Foods",
+      "item.chilli.name": "Chilli",
+      "item.cookedbacon.name": "Cooked bacon",
+      "item.standardblt_food.name": "Standard BLT",
+      "item.tomatoslice.name": "Tomato Slice",
+      "item.rawchickenslice.name": "Cooked Chicken Slice",
+      "item.cookedchickenslice.name": "Cooked Chicken Slice",
+      "item.breadslice.name": "Bread slice",
+      "item.goldenknife.name": "Golden Knife",
+      "advancements.blt.descr": "The heart and story of the mod",
+      "item.lettuce.name": "Lettuce",
+      "itemGroup.tabstandardblttools": "Standard BLT-Tools",
+      "item.stoneknife.name": "Stone Knife",
+      "item.ironknife.name": "Iron Knife",
+      "item.woodenknife.name": "Wooden knife",
+      "item.chilliseed.name": "Chilli seed",
+      "item.rawbacon.name": "Cooked bacon"
+    },
+    "en_us": {
+      "item.lettuceslice.name": "Lettuce Slice",
+      "advancements.blt.title": "StandardBLT",
+      "item.tomato.name": "Tomato",
+      "item.diamondknife.name": "Diamond Knife",
+      "itemGroup.tabstandardbltfoods": "Standard BLT-Foods",
+      "item.chilli.name": "Chilli",
+      "item.cookedbacon.name": "Cooked bacon",
+      "item.standardblt_food.name": "Standard BLT",
+      "item.tomatoslice.name": "Tomato Slice",
+      "item.rawchickenslice.name": "Cooked Chicken Slice",
+      "item.cookedchickenslice.name": "Cooked Chicken Slice",
+      "item.breadslice.name": "Bread slice",
+      "item.goldenknife.name": "Golden Knife",
+      "advancements.blt.descr": "The heart and story of the mod.",
+      "item.lettuce.name": "Lettuce",
+      "itemGroup.tabstandardblttools": "Standard BLT-Tools",
+      "item.stoneknife.name": "Stone Knife",
+      "item.ironknife.name": "Iron Knife",
+      "item.woodenknife.name": "Wooden knife",
+      "item.chilliseed.name": "Chilli seed",
+      "item.rawbacon.name": "Cooked bacon"
+    },
+    "zh_cn": {
+      "item.lettuceslice.name": "Lettuce Slice",
+      "advancements.blt.title": "StandardBLT",
+      "item.tomato.name": "Tomato",
+      "item.diamondknife.name": "钻石刀",
+      "itemGroup.tabstandardbltfoods": "Standard BLT-食物",
+      "item.chilli.name": "辣椒",
+      "item.cookedbacon.name": "熟培根",
+      "item.standardblt_food.name": "Standard BLT",
+      "item.tomatoslice.name": "Tomato Slice",
+      "item.rawchickenslice.name": "Cooked Chicken Slice",
+      "item.cookedchickenslice.name": "Cooked Chicken Slice",
+      "item.breadslice.name": "面包片",
+      "item.goldenknife.name": "金刀",
+      "advancements.blt.descr": "模组的核心与故事",
+      "item.lettuce.name": "Lettuce",
+      "itemGroup.tabstandardblttools": "Standard BLT-工具",
+      "item.stoneknife.name": "石刀",
+      "item.ironknife.name": "铁刀",
+      "item.woodenknife.name": "木刀",
+      "item.chilliseed.name": "辣椒种子",
+      "item.rawbacon.name": "Cooked bacon"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "blt",
+    "modName": "StandardBLT",
+    "version": "Dev.0.1.0.0",
+    "description": "Add many sandwiches called BLT(Bacon,Lettuce,Tomato). \\n We also add some drink to make your picnic better.",
+    "author": "JoeMichaelQiao, Marik-MaLike, Strlantian.",
+    "websiteURL": "https://standardblt.github.io",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "updateURL": "https:/standardblt.github.io/",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created By BlockBuster_Joe,Goerge and Marik-MaLike.",
+    "modElementsPackage": "io.github.standardblt",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000213719
+}

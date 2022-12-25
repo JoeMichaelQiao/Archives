@@ -1,0 +1,10 @@
+############
+StandardBLT
+############
+
+# Items
+item.bltitem.name=标准的BLT-物品
+# Blocks
+tile.bltblock.name=标准的BLT-方块
+# Creative Tab(s)
+itemGroup.StandardBLT_Tab=标准的BLT

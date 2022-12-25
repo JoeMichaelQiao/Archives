@@ -1,0 +1,16 @@
+{
+  "group": "lettuce_slice",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blt:lettuce"
+    }
+  },
+  "result": {
+    "item": "blt:lettuceslice",
+    "count": 4
+  }
+}

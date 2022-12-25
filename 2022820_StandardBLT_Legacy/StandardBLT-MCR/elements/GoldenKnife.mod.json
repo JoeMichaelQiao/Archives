@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "gold_knife",
+    "customModelName": "Normal",
+    "name": "Golden Knife",
+    "creativeTab": {
+      "value": "CUSTOM:StandardBLTTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 3.2,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 64,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ]
+  }
+}

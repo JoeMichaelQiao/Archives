@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "blt",
+    "name": "StandardBLT",
+    "description": "Add many sandwiches called BLT(Bacon,Lettuce,Tomato). \n We also add some drink to make your picnic better.",
+    "version": "Dev.0.1.0.0",
+    "credits": "Created By BlockBuster_Joe,Goerge and Marik-MaLike.",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://standardblt.github.io",
+    "updateUrl": "https:/standardblt.github.io/",
+    "authorList": [
+      "JoeMichaelQiao, Marik-MaLike, Strlantian."
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

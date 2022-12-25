@@ -1,0 +1,49 @@
+[
+  {
+    "modid": "standardblt",
+    "name": "StandardBLT",
+    "description": "A mod which support different kind BLTs to make survival in Minecraft easier.\nWith:\nStandardBLT Texture Edition Tex.Alpha.0.0\nStandardBLT Documentation Edition Doc.Alpha.0.0",
+    "version": "Dev.Alpha.0.0.0",
+    "mcversion": "1.12",
+    "url": "https://StandardBLT.github.io/",
+    "updateUrl": "",
+    "authorList": [
+      "JoeMichaelQiao",
+      "STRlantian",
+      "Marik",
+      "Luminary Blaze Rosmontis"
+    ],
+    "credits": "Thanks to:\n  JoeMichaelQiao - Lead developer\n  Marik - Original StandardBLT Texture pack designer.\n  STRlantian - Original StandardBLT Texture pack designer,lead Developer.\n  Luminary Blaze Rosmontis - Assistant Document Writer.\n  And All StandardBLT Players.\n  (Contributions are not in particular order)",
+    "logoFile": "logo.png",
+    "screenshots": [""],
+    "dependencies": [],
+    "requiredMods": ["forge@[14.23.5.2859,)"]
+  },
+  {
+    "modid": "standardblt_texture",
+    "name": "StandardBLT Texture",
+    "description": "The Texture of StandardBLT mod.",
+    "version": "Tex.Alpha.0.0",
+    "url": "https://StandardBLT.github.io/Texture/",
+    "updateUrl": "",
+    "authorList": [
+      "STRlantian",
+      "Marik"
+    ],
+    "credits": "Thanks to our Texture pack designers STRlantian and Marik.\nThey're really good partner!",
+    "logoFile": "logo.png",
+    "requiredMods": ["forge@[14.23.5.2859,)"]
+  },
+  {
+    "modid": "standardblt_documentation",
+    "name": "StandardBLT Documentation",
+    "description": "The Documentation of StandardBLT mod.",
+    "version": "Doc.Alpha.0.0",
+    "url": "https://StandardBLT.github.io/Documentation/",
+    "updateUrl": "",
+    "authorList": ["Luminary Blaze Rosmontis"],
+    "credits": "Thanks to our writer Luminary Blaze Rosmontis.\nThis is the best birthday gift!",
+    "logoFile": "logo.png",
+    "requiredMods": ["forge@[14.23.5.2859,)"]
+  }
+]
